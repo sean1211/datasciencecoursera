@@ -1,0 +1,4 @@
+source("corr.R")
+source("complete.R")
+cr <- corr("specdata", 150)
+head(cr)
