@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "README"
 author: "Sean Medina"
@@ -27,3 +28,7 @@ plot(cars)
 ```
 
 
+=======
+# datasciencecoursera
+Data Science Course
+>>>>>>> 736ef482072465c97a2a61dfc1afbe909d2a5c60
